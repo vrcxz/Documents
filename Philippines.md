@@ -1,4 +1,4 @@
-# Philippines 
+# Background of the Philippines
 This document aims to provide information regarding the history of Philippines for our [Purposive Communication](https://digiaide.com/purposive-communication) subject project.
 
 ---
