@@ -89,7 +89,7 @@ Throughout its history, the Philippines has faced numerous challenges, including
 
  - **World War II:** The Philippines was occupied by Japan during World War II, and suffered significant damage and loss of life. After the war, the country regained its independence and established itself as a republic.
 
- - **Post-independence:** Since independence, the Philippines has faced a number of challenges, including political turmoil, economic instability, and natural disasters. Despite these challenges, the country has made significant progress in recent decades, with a growing economy and increased political stability.
+ - **Post-independence/Current:** Since independence, the Philippines has faced a number of challenges, including political turmoil, economic instability, and natural disasters. Despite these challenges, the country has made significant progress in recent decades, with a growing economy and increased political stability.
 
 
 
