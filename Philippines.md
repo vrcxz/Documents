@@ -244,25 +244,41 @@ The Philippines is a country undergoing significant cultural and technological c
 ---
 
 ## <a id="references">References</a>
-[1] https://www.literacyworldwide.org/blog/literacy-now/2015/08/06/literacy-in-the-philippines-the-stories-behind-the-numbers
 
+[1] https://www.literacyworldwide.org/blog/literacy-now/2015/08/06/literacy-in-the-philippines-the-stories-behind-the-numbers
 
 
 [2] https://psa.gov.ph/content/age-and-sex-distribution-philippine-population-2020-census-population-and-housing
 
 
+http://www.philippine-history.org/
+
 
 https://en.m.wikipedia.org/wiki/Philippines
-
 
 
 https://en.m.wikipedia.org/wiki/History_of_the_Philippines
 
 
-
 https://www.bbc.com/news/world-asia-15581450
 
 
-
-
 https://www.britannica.com/topic/history-of-Philippines
+
+
+https://web.archive.org/web/20120224035104/http://www.nhi.gov.ph//index.php?option=com_content&task=view&id=14&Itemid=3
+
+
+http://www.hti.umich.edu/p/philamer/
+
+
+https://www.gutenberg.org/ebooks/7001
+
+
+https://web.archive.org/web/20101109070959/http://www.philippinerevolution.net/cgi-bin/cpp/pdocs.pl?id=lrp_e%3Bpage%3D01
+
+
+http://euroheritage.net/spanishphilippines2.shtml
+
+
+https://web.archive.org/web/20081217085143/http://filipiniana.net/
