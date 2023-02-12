@@ -74,7 +74,7 @@ The Philippine manner of communication reflects the country's diverse cultural h
 
 ---
 
-## Historical Background 
+## <a id="historical_background">Historical Background</a> 
 The Philippines has a rich and complex history that has played a significant role in shaping its unique culture and identity. 
 
 Throughout its history, the Philippines has faced numerous challenges, including wars, natural disasters, and political turmoil. However, despite these challenges, the people of the Philippines have always persevered and continued to maintain their cultural traditions and values. But regardless, it is because of this that the Philippines has a rich cultural heritage that has been influenced by a variety of different civilizations and peoples, including the indigenous Tagalog and Igorot tribes, Spanish colonial rule, and American occupation.
