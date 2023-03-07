@@ -12,7 +12,7 @@ This document aims to provide information regarding the history of Philippines f
     - [American occupation](#american)
     - [World War II](#worldwar2)
  - [Modern/Current Background](#modern)
- - [References](#references)
+ - [References](#reference)
 ---
 
 ## <a id="general_background">General Background</a>
@@ -243,7 +243,7 @@ The Philippines is a country undergoing significant cultural and technological c
 
 ---
 
-## <a id="references">References</a>
+## <a id="reference">References</a>
 
 [1] https://www.literacyworldwide.org/blog/literacy-now/2015/08/06/literacy-in-the-philippines-the-stories-behind-the-numbers
 
