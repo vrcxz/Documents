@@ -253,7 +253,7 @@ The Philippines is a country undergoing significant cultural and technological c
 [2] https://psa.gov.ph/content/age-and-sex-distribution-philippine-population-2020-census-population-and-housing
 
 
-http://www.philippine-history.org/
+[http://www.philippine-history.org/](http://www.philippine-history.org/)
 
 
 https://en.m.wikipedia.org/wiki/Philippines
