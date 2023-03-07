@@ -256,7 +256,7 @@ The Philippines is a country undergoing significant cultural and technological c
 [http://www.philippine-history.org/](http://www.philippine-history.org/)
 
 
-https://en.m.wikipedia.org/wiki/Philippines
+[https://en.m.wikipedia.org/wiki/Philippines](./sample1.md)
 
 
 https://en.m.wikipedia.org/wiki/History_of_the_Philippines
