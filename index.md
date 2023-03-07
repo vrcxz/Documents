@@ -13,6 +13,7 @@ This document aims to provide information regarding the history of Philippines f
     - [World War II](#worldwar2)
  - [Modern/Current Background](#modern)
  - [References](#reference)
+
 ---
 
 ## <a id="general_background">General Background</a>
